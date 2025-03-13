@@ -349,7 +349,7 @@ int16_t Speed_pid_output;
 char use_speed_control_loop = 0;
 int32_t input_override = 0;
 int16_t use_current_limit_adjust = 2000;
-char use_current_limit = 0;
+char use_current_limit = 1;
 int32_t stall_protection_adjust = 0;
 
 uint32_t MCU_Id = 0;
