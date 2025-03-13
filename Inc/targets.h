@@ -21,7 +21,7 @@
 // #define AM32REF_F051
 
 // #define G072ESC
-// #define G071ENABLE
+   #define G071ENABLE
 // #define G071_OPEN_DRAIN
 // #define G071_OPEN_DRAIN_B
 // #define GEN_64K_G071
